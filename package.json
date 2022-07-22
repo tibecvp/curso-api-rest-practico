@@ -1,0 +1,22 @@
+{
+  "name": "curso-api-rest-practico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibecvp/curso-api-rest-practico.git"
+  },
+  "keywords": [
+    "@tibecvp"
+  ],
+  "author": "Tibe Calderon <tibecvp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tibecvp/curso-api-rest-practico/issues"
+  },
+  "homepage": "https://github.com/tibecvp/curso-api-rest-practico#readme"
+}
