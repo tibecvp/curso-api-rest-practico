@@ -432,6 +432,13 @@ footer {
     align-items: center;
 }
 
+footer a {
+    color: var(--green);
+    margin-left: 4px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 
 /* Navigation */
 .inactive {
